@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arsenpeti
 - 👀 I’m interested in becoming a better developer
-- 🌱 I’m currently learning .net
+- 🌱 I’m currently learning react native expo
 - 💞️ I’m looking to collaborate on any projects that would further my abilities and development creativity
 - 📫 How to reach me in multipule ways but email is always available arsenpeti900@gmail.com
 - ⚡ Fun fact: i am self taught
